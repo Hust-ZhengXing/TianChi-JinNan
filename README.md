@@ -1,6 +1,6 @@
 
 
-# 天池比赛：[津南数字制造算法挑战赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231695/introduction) Drop 队（初赛17名，复赛结果未知）代码，初赛加复赛
+# 天池比赛：[津南数字制造算法挑战赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231695/introduction) 
 
 ## 2019年3月9号更新——更新说明：
 
